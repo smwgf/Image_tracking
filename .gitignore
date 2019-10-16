@@ -1,1 +1,2 @@
-describe_keypoints/build/*
+describe_keypoints/build/
+detect_keypoints/build/
